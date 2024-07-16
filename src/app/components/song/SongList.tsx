@@ -18,6 +18,7 @@ export default function SongList(props: {
             singer={item.singer}
             listen={item.listen}
             audio={item.audio}
+            wishlist={item.wishlist}
 
           />
         ))}
