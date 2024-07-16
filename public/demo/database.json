@@ -1,0 +1,105 @@
+{
+    "categories": {
+      "1": {
+        "image": "https://i.imgur.com/RZxARZ3.jpeg",
+        "title": "26: Individualism",
+        "description": "Tùng • 2020 • 10 songs, 47 min 21 sec"
+      },
+      "2": {
+        "image": "https://i.imgur.com/ETeOn3y.jpeg",
+        "title": "Đến Đâu Từ Đây",
+        "description": "Thành Đồng - 2022 - 4 songs, 15 min"
+      },
+      "3": {
+        "image": "https://i.imgur.com/2nnfpDT.jpeg",
+        "title": "2521 OST",
+        "description": "Schxx • 19,664 saves • 12 songs, 45 min 52 sec"
+      },
+      "4": {
+        "image": "https://i.imgur.com/EuAu7Os.jpeg",
+        "title": "Thinhsuynghi",
+        "description": "Thịnh Suy • 2023 • 10 songs, 32 min 24 sec"
+      },
+      "5": {
+        "image": "https://i.imgur.com/t3pRQO6.jpeg",
+        "title": "Our Beloved Summer OST",
+        "description": "10CM • 2021 • 2 songs, 7 min 54 sec"
+      },
+      "6": {
+        "image": "https://backend.daca.vn/assets/images/acoustic.jpg",
+        "title": "Acoustic",
+        "description": "Tổng hợp nhạc Acoustic mới nhất"
+      },
+      "7": {
+        "image": "https://backend.daca.vn/assets/images/rock.jpg",
+        "title": "Rock",
+        "description": "Tổng hợp nhạc Rock mới nhất"
+      }
+    },
+    "singers": {
+      "1": {
+        "image": "https://i.imgur.com/rzihdJf.jpeg",
+        "title": "10CM",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      },
+      "2": {
+        "image": "https://i.imgur.com/aKBRY1g.jpeg",
+        "title": "SUNMI",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      },
+      "3": {
+        "image": "https://i.imgur.com/9QiTaXC.jpeg",
+        "title": "Tùng ",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      },
+      "4": {
+        "image": "https://i.imgur.com/7BqYBFr.jpeg",
+        "title": "keshi",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      },
+      "5": {
+        "image": "https://i.imgur.com/iDMs9rl.jpeg",
+        "title": "Thịnh Suy",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      }
+    },
+    "songs": {
+      "1": {
+    "image": "https://i.imgur.com/RZxARZ3.jpeg",
+    "title": "Xa (Chờ Đến Mùa Gió)",
+    "categoryId": "1",
+    "singerId": ["3"], 
+    "audio": "http://127.0.0.1:5500/xa.mp3", 
+    "lyric": "Những ngày em qua đôi mươi\nTiếng nấc em xa tôi để lại\nNhững ngày màng đêm chia đôi\nNhững giấc mơ không tròn thở dài\nCho tôi mang đi những câu chuyện buồn\nChờ đến ban mai, bên tôi, được không?\nCho em bên tôi, như bao tình cờ\nChờ đến mùa gió\nĐể tôi có em từ nay về sau\nNhững chuyến đi không tên lặp lại\nĐể em có tôi ở bên thật lâu\nÁo khoác vai đêm đông đừng ngại\nCho tôi mang đi những câu chuyện buồn\nChờ đến ban mai, bên tôi, được không?\nCho em bên tôi, như bao tình cờ\nChờ đến mùa gió\nXa, ngày hiên lá về\nTình tôi như gió êm giao mùa\nEm, ngày mai có về?\nCó nhớ tôi trong đời?\nNhững ngày đi xa\nNgày hiên lá về\nTình tôi như gió êm giao mùa\nEm, ngày mai có về?\nTình tang tôi hát em nghe\nChuyện là tôi thấy mình xa\nBèn buồn tôi hát tình ca\nXa, ngày hiên lá về\nTình tôi như gió êm giao mùa\nEm, ngày mai có về?\nCó nhớ tôi trong đời?\nNhững ngày đi xa\nNgày hiên lá về\nTình tôi như gió êm giao mùa\nEm, ngày mai có về?\nTình tang tôi hát em nghe\nChuyện là tôi thấy mình xa\nBèn buồn tôi hát tình ca\nMặt trời dần lên bên em\nCó chuyến bay chân trời gập lại\nHẹn chờ ban mai xuyên đêm\nĐã rất lâu chưa về.",
+    "listen": 24500
+}
+,
+      "2": {
+        "image": "https://i.imgur.com/oyjEE9v.jpeg",
+        "title": "Drawer",
+        "categoryId": "5",
+        "singerId": ["1"],
+        "audio": "http://127.0.0.1:5500/Drawer.mp3",
+        "lyric": "어린 햇살 아래서\n뛰어놀곤 했었던\n가쁜 숨결\n굽이진 골목 지나\n길을 따라 가보면\n같은 기억\n어른이란 시간은\n아직 어색하게도\n나를 채워\n많은 게 변했다 해\n여긴 그대로인걸\nYou'll feel the same\n땀에 젖어 놀았던\n우리는 너와 난 이젠\n돌아갈 순 없지만\n낡아진 서랍 속에서\n작았던 서롤 기억해\nWhen I'm far from home\nAlways 떠올라 난 아직도\n반짝이던 니 두 눈\nHoo-huh, hmm, mm\nHoo-huh, hmm, mm\n마주 보던 그림자\n마주 보던 우리는\n여기 still same, hmm\n시간은 언제나 날\n울리는 존재지만\n놓질 못해\n많은 게 더 지날 땐\n여긴 또 하나의\nOur home\n그땐 우린 어딜까\n낡아진 서랍 속에서\n작았던 서롤 기억해\nWhen I'm far from home\nAlways 떠올라 난 아직도\n반짝이던 네 두 눈\n혼자서 숨겼던\n널 향한 마음은\n알게 하진 않을 거야\n널 볼 수 있다면 그걸로 충분해\n담을게 두 눈에 언제든 항상\n낡아진 서랍 속에서\n작았던 서롤 기억해\nWhen I'm far from home\nAlways 떠올라 난 아직도\n반짝이던 네 두 눈\nHoo-huh, hmm, mm\nHoo-huh, hmm, mm.",
+        "listen": 20500
+      },
+      "3": {
+        "image": "https://i.imgur.com/PV3spdk.jpeg",
+        "title": "Balloon In Love",
+        "categoryId": "6",
+        "singerId": ["2"],
+        "audio": "http://127.0.0.1:5500/ballooninlove.mp3",
+        "lyric": "Sumi cha nae maeumi\nNeol bomyeon bupureoga neoga\nSomeone says it's gonna blow up one day\nNo, right no, right\nTteooreun haetsal arae\nNeowa na we're running, running, oh\nBupureun i sarangi\nTeojindaedo loving, loving you\nFall in love\nI fall in love with you\nMeomulleojwo nae pumeseo\nFall in love\nDeo bureojwo nae pyeoneseo\nYeah, I'm a balloon in love\nNari sae pureun bami\nEoneusae jeogi meolli boyeo boyеo\nI'm with you wherever you go\nSo please don't doubt it\nYou got me, baby\nFall in love\nI fall in love with you\nMeomulleojwo nae pumeseo\nFall in love\nDeo bureojwo nae pyeoneseo\nYeah, I'm a balloon in love\nGakkeumeun nal teojige mandeureo\nIt hurts I know, I know\nBut you gotta know, neo hanaya\nWho could take me to the sky\nFall in love\nI fall in love with you\nMeomulleojwo nae pumeseo\nFall in love\nDeo bureojwo nae pyeoneseo\nYeah, I'm a balloon in love",
+        "listen": 18800
+      },
+      "4": {
+        "image": "https://i.imgur.com/hWzw3hc.jpeg",
+        "title": "Spring Snow",
+        "categoryId": "5",
+        "singerId": ["1"],
+        "audio": "http://127.0.0.1:5500/spring-snow.mp3",
+        "lyric": "가려진 오랜 시간이\n우리를 다시 불러와\n어느 곳에 있어도\n그 끝은 항상 너인걸\n'Cause I'm falling slowly love with you\n오랫동안 기다려온 너는 봄이야\n'Cause I'm falling slowly love with you\n다시 지워진다 해도, all my life is you\n너라는 이야기 속에\n다시 또 꿈을 꾸는 나\n어떤 순간이 와도\n난 너를 찾아 갈거야\n'Cause I'm falling slowly love with you\n오랫동안 기다려온 너는 봄이야\n'Cause I'm falling slowly love with you\n다시 지워진다 해도, all my life is you\n꽃잎 날리던 하얀 길위에\n행복했던 너와 나 다시 만날 수 있다면\n'Cause I'm falling slowly love with you\n오랫동안 기다려온 너는 봄이야\n'Cause I'm falling slowly love with you\n다시 지워진다 해도, all my life is you.",
+        "listen": 22800
+      }
+    }
+  }
